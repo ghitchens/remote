@@ -1,0 +1,11 @@
+[ "cowboy": {:git, "git://github.com/extend/cowboy.git", "2b2829f5855e4b2a6ba5e0ca5ccefd42fa2e9524", []},
+  "cowlib": {:git, "git://github.com/extend/cowlib.git", "2f35af5b0a67f591dde5ae4305a9587988a37c0c", [{:ref, "0.1.0"}]},
+  "erlang-serial": {:git, "git://github.com/ghitchens/erlang-serial.git", "4eedbae410c1d5ac564f8d1fe754f0d1ade68987", []},
+  "exlager": {:git, "git://github.com/khia/exlager.git", "0b840aae773e6eb6de7cdbb703b47031b6608bfb", []},
+  "goldrush": {:git, "git://github.com/DeadZen/goldrush.git", "879c69874a555b2c13498aa4a3da6f6bbbb6a031", [{:tag, "879c69874a"}]},
+  "httpotion": {:git, "git://github.com/myfreeweb/httpotion.git", "b688c3342f58e32e10f3caa092225b5c8c26eb8b", []},
+  "ibrowse": {:git, "git://github.com/cmullaparthi/ibrowse.git", "bbad869ea595c594912cf71fbd622aa80577c8f6", []},
+  "jsx": {:git, "git://github.com/talentdeficit/jsx.git", "e50af6e109cb03bd26acf715cbc77de746507d1d", []},
+  "lager": {:git, "https://github.com/basho/lager.git", "822062478a223313dce30e5a45e30a50a4b7dc4e", []},
+  "mimetypes": {:git, "git://github.com/spawngrid/mimetypes.git", "47d37a977a7d633199822bf6b08353007483d00f", []},
+  "ranch": {:git, "git://github.com/extend/ranch.git", "41705752ffc7e3ecb96eef8374015ead4ca7f699", [{:ref, "0.8.5"}]} ]

@@ -1,6 +1,11 @@
-.eunit
 deps
+/ebin
+/deps
+/log
 *.o
 *.beam
 *.plt
+*.ez
+.eunit
+config
 erl_crash.dump
