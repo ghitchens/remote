@@ -1,4 +1,4 @@
-# RemoteRadio (UNDER CONSTRUCTION)
+# RemoteRadio (PRELIMINARY)
 
 RemoteRadio is an open system for real time remote control of amateur radio equipment via the Internet, including streaming audio, station control and monitoring, and lots more.   It was designed with multiple users, low latency control, stability, and streaming audio in mind. 
 

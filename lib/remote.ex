@@ -15,6 +15,8 @@ defmodule Remote do
     {:ok, _} = Echo.HttpServer.start 
 
     Echo.Supervisor.start_link
+    {:ok, nil}
+    
   end
     
 end
